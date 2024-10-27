@@ -4,7 +4,7 @@
     <img src="Screenshots/unity-logo.png" style="width: 5%;">
 </div>
 <br>
-<img src="Screenshots/level1.png" style="width: 75%; display: inline-block;">
+<img src="Screenshots/level1-video.gif" style="width: 75%; display: inline-block;">
 
  My take on the classic arcade game Breakout. Features: <br>
  - 2 whole levels!<br>
