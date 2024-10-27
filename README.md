@@ -6,6 +6,7 @@
 <br>
 <img src="Screenshots/level1-video.gif" style="width: 75%; display: inline-block;">
 
- My take on the classic arcade game Breakout. Features: <br>
+ My take on the classic arcade game Breakout. 
+ <br>Features: <br>
  - 2 whole levels!<br>
  - Levels loop so the fun never ends!<br>
