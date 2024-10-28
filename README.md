@@ -10,3 +10,4 @@
  <br>Features: <br>
  - 2 whole levels!<br>
  - Levels loop so the fun never ends!<br>
+ - Ability to pause the game and go grab a water
